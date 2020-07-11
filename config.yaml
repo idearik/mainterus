@@ -10,6 +10,11 @@ enableGitInfo: true
 taxonomies:
   tag: tags
 
+sitemap:
+  changefreq: daily
+  filename: sitemap.xml
+  priority: 0.5
+
 permalinks:
   post: /:filename/
 
