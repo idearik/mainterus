@@ -7,8 +7,8 @@ title: "Welcome Home, Gamer!"
 
 Cobain deh:
 {{< ticks >}}
-* Baca [update terbaru](/tags/news)
-* Debat soal [Review](/tags/review)
-* Dengerin update mingguan via [Podcast](/podcast)
-* [Baca Semua Update](/post)
+* Baca [update terbaru](/tags/news) 📰
+* Debat soal [Review](/tags/review) 👀
+* Dengerin update mingguan via [Podcast](/podcast) 🎙️
+* [Baca Semua Update](/post) 🎉
 {{< /ticks >}}
