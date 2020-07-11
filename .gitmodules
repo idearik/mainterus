@@ -1,3 +1,9 @@
+[submodule "themes/mt"]
+	path = themes/mt
+	url = https://github.com/idearik/cupper-hugo-theme-mt.git
+[submodule "cupper-hugo-theme-mt"]
+	path = cupper-hugo-theme-mt
+	url = https://github.com/idearik/cupper-hugo-theme-mt
 [submodule "cupper-hugo-theme-mainterus"]
 	path = cupper-hugo-theme-mainterus
 	url = https://github.com/idearik/cupper-hugo-theme-mainterus

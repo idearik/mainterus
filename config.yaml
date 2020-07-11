@@ -2,7 +2,7 @@ baseURL: https://mainterus.com
 languageCode: en-us
 defaultContentLanguage: en
 title: Mainterus
-theme: cupper-hugo-theme-mainterus
+theme: mt
 googleAnalytics: UA-30464246-15
 disqusShortname: mainterus
 enableGitInfo: true
