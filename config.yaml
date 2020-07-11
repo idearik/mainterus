@@ -23,7 +23,7 @@ imaging:
 
 params:
   description: Website berita video game tanpa banyak bacot.
-  homeMetaContent: Web update video game yang singkat, fokus dan jujur. Kadang-kadang review video game juga.
+  homeMetaContent: Mainterus.com - situs update video game yang singkat, fokus dan jujur. Kadang-kadang review video game juga.
   footer: Made with 💛 by [Ari Kurniawan](https://arik.blog).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
