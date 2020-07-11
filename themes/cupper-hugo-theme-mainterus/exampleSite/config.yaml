@@ -1,10 +1,10 @@
-baseURL: https://mainterus.com
+baseURL: https://example.com
 languageCode: en-us
 defaultContentLanguage: en
-title: Mainterus
-theme: cupper-hugo-theme-mainterus
-googleAnalytics: UA-30464246-15
-disqusShortname: mainterus
+title: Cupper
+theme: cupper-hugo-theme
+googleAnalytics: UA-123456789-1
+disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
 taxonomies:
@@ -17,22 +17,16 @@ imaging:
   quality: 99
 
 params:
-  description: Website berita video game tanpa banyak bacot.
-  homeMetaContent: Web update video game yang singkat, fokus dan jujur. Kadang-kadang review video game juga.
-  footer: Made with 💛 by [Ari Kurniawan](https://arik.blog).
+  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
+  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
   darkThemeAsDefault: false
-  author: "Ari Kurniawan"
-  logo: "/images/logo.svg"
-  header: "Mainterus.com"
-
-  facebook: ""
-  twitter: ""
-  instagram: ""
-  github: ""
+  hideHeaderLinks: false
+  search: true
   # A list of custom css files can be provided, which must be placed inside
   # 'static/'.
   # This is useful to override just specific css classes, instead of copying
@@ -47,17 +41,17 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Update Terbaru
+    - name: Blog
       url: /post/
       weight: 2
-    - name: Podcast
-      url: /podcast/
+    - name: Tags
+      url: /tags/
       weight: 3
-    - name: Tentang MT
+    - name: About
       url: /about/
       weight: 4
-    - name: Sitemap
-      url: /sitemap.xml
+    - name: RSS
+      url: /index.xml
       weight: 5
 
 markup:
