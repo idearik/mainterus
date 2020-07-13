@@ -1,11 +1,11 @@
 ---
 title: "Superhot: Mind Control Delete GRATIS, Caranya ?"
-date: 2020-07-10T11:19:15.963Z
+date: 2020-07-12T11:19:15.963Z
 description: Superhot: Mind Control Delete Rilis 16 Juli 2020
 tags:
   - news
 ---
-Kamu bisa dapetin[ Superhot: Mind Control Delete](https://superhotgame.com/mind-control-delete/) GRATIS kalo kamu beli Superhot Originalnya sebelum tanggal rilis game ini. Buruan!
+Kamu bisa dapetin [Superhot: Mind Control Delete](https://superhotgame.com/mind-control-delete/) GRATIS kalo kamu beli Superhot Originalnya sebelum tanggal rilis game ini. Buruan!
 
 {{< youtube ov-ismbvR9g >}}
 
