@@ -7,7 +7,7 @@ tags:
   - news
   - ubisoft forward
 ---
-Ini adalah seri artikel seputar Ubisoft Forward. Baca semua update dari ajang ini disini.
+Ini adalah seri artikel seputar Ubisoft Forward. Baca semua update dari ajang ini **[disini](https://mainterus.com/tags/ubisoft-forward/)**.
 
 Far Cry 6 sempat bocor di internet hanya beberapa hari sebelum Ubisoft Forward. Hanya dua jam setelah leak itu muncul di internet, Ubisoft langsung merespon dengan merilis teaser ini:
 
