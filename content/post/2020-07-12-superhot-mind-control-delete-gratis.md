@@ -1,7 +1,7 @@
 ---
 title: "Superhot: Mind Control Delete GRATIS, Caranya ?"
 date: 2020-07-12T11:19:15.963Z
-description: Superhot: Mind Control Delete Rilis 16 Juli 2020
+description: "Superhot: Mind Control Delete Rilis 16 Juli 2020"
 tags:
   - news
 ---
