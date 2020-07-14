@@ -5,7 +5,7 @@ description: Death Stranding Rilis 14 Juli 2020
 tags:
   - news
 ---
-Gim ini percis **Film** tapi versi PCnya dibanding sama **Drama TV** versi PS4nya, kata pengembang. Soalnya dikembangin dengan spec-spec kece yang ngedukung mode Ultrawide nya ala Nvidia. 
+Gim ini percis *Film*untuk versi PCnya dibanding sama *Drama TV* versi PS4nya, kata pengembang. Soalnya dikembangin dengan spec-spec kece yang ngedukung mode Ultrawide nya ala Nvidia. 
 
 Coba deh kamu cek trailer di bawah,
 
