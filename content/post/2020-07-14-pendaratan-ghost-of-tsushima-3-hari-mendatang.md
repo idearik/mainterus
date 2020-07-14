@@ -1,5 +1,5 @@
 ---
-title: Pendaratan Ghost of Tsushima 3 Hari Mendatang
+title: Pendaratan Ghost of Tsushima, 3 Hari Mendatang
 date: 2020-07-14T05:44:27.374Z
 description: Ghost of Tsushima Rilis 17 Juli 2020
 tags:
