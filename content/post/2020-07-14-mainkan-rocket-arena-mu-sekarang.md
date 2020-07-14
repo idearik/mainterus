@@ -13,10 +13,10 @@ Btw main ini sebenernya bisa sekalian cuci mata sama arena nya yang eksotik abis
 
 {{< youtube tifCKVz5mSc >}}
 
-Aksi 3v3 jadi andalan utama keseruan di sini, tapi banyak juga mode permainan yang menantang kayak Knockout, Rocketball, Mega Rocket, Treasure Hunt, dan masih banyakk lagi dah. Players juga bebas buat nentuin style nya sendiri. Udah tau style kesukaanmu ?
+Aksi 3v3 jadi andalan utama keseruan di sini, tapi banyak juga mode permainan yang menantang kayak Knockout, Rocketball, Mega Rocket, Treasure Hunt, dan masih banyak lagi dah. Players juga bebas buat nentuin style nya sendiri. Udah tau style kesukaanmu ?
 
 Nah ini, Heroes of Crater trailernya.
 
 [](https://youtu.be/KB0fS_C341c){{< youtube KB0fS_C341c >}}
 
-Masih ada sisa waktu lagi dikit nih buat [PRE-ORDER](https://www.ea.com/games/rocket-arena), digaskeunnn segeraa yak!"
+Masih ada sisa waktu lagi dikit nih buat [PRE-ORDER](https://www.ea.com/games/rocket-arena), digaskeunnn segeraa yak!
