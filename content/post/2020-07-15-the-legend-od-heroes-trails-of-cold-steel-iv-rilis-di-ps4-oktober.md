@@ -25,4 +25,4 @@ Sudah siap menjadi aliansi yang menyelamatkan dunia dari kehancuran ?
 
 Booking aja langsung edisi terbatas PS4 ini di publishernya, [Nis America](https://store.nisamerica.com/the-legend-of-heroes-trails-of-cold-steel-iv-limited-edition-ps4).  
 
-Atau kamu pengen yang di PC atau Nintendo? Sebelum kelupaan, tambahin dulu ke wishlist mu lewat [Steam](https://store.steampowered.com/app/1198090/The_Legend_of_Heroes_Trails_of_Cold_Steel_IV/) dan  [Gog](https://www.gog.com/game/the_legend_of_heroes_trails_of_cold_steel_iv).
+Atau kamu pengen yang di PC atau Nintendo? Sebelum kelupaan, tambahin dulu ke wishlist mu lewat [Steam](https://store.steampowered.com/app/1198090/The_Legend_of_Heroes_Trails_of_Cold_Steel_IV/),  [Gog](https://www.gog.com/game/the_legend_of_heroes_trails_of_cold_steel_iv) atau pre order cuss ke [situs resminya](http://thelegendofheroes.com/tocs4/product/).
