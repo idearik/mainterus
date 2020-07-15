@@ -5,7 +5,7 @@ description: "The Legend od Heroes: Trails of Cold Steel IV Rilis di PS4 27 Okto
 tags:
   - news
 ---
-[The Legend of Heroes : Trails of Cold Steel IV](http://thelegendofheroes.com/tocs4/) bakal siap nemenin kamu di PS4 mulai Selasa, 27 Oktober 2020. Dan hadir di Nintendo Switch juga PC di musim semi tahun depan.
+[The Legend of Heroes : Trails of Cold Steel IV](http://thelegendofheroes.com/tocs4/) bakal siap nemenin kamu di PS4 mulai Selasa, 27 Oktober 2020. Dan JRPG ini hadir di Nintendo Switch juga PC di musim semi tahun depan.
 
 Berikut cast nya:
 
