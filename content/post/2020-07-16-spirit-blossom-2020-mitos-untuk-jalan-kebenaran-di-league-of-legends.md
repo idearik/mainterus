@@ -1,5 +1,5 @@
 ---
-title: "Spirit Blossom 2020 : Mitos untuk Jalan Kebenaran di League of Legends"
+title: "Spirit Blossom 2020 : Mitos Epik di League of Legends"
 date: 2020-07-16T03:33:08.500Z
 description: Spirit Blossom 2020 Hadir di League of Legends tanggal 22 Juli 2020
 tags:
