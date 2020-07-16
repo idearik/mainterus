@@ -6,6 +6,7 @@ theme: mt
 googleAnalytics: UA-30464246-15
 disqusShortname: mainterus
 enableGitInfo: true
+enableRobotsTXT: true
 
 taxonomies:
   tag: tags
