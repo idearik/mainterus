@@ -11,4 +11,4 @@ Efek air dan pasir yang lebih kerenn, jenis binatang buas baru, sampe makhluk ek
 
 Siap-siap aja budget sekitar RP.150.000 di tanggal 24 Juli nanti, [Paper Beast](https://www.pixelreef.fr/paper-beast/) bisa kamu beli di [Steam](https://store.steampowered.com/app/1232570/Paper_Beast/), [Viveport](https://www.viveport.com/f3781632-e9ac-45aa-922d-d1cbebee09d9),[ Oculus](https://www.oculus.com/experiences/rift/3084782771571768/?utm_source=rakuten&utm_medium=affiliate&utm_campaign=TnL5HPStwNw). Hmm sebaiknya sih tambahin ke wishlist aja biar ngga kelupaan, khususnya buat kamu yang fandom.
 
- Geregetan pengen nyoba VR ini? Cek aja versi [Demonya](https://store.steampowered.com/app/1232570/Paper_Beast/).
+ Geregetan pengen nyoba VR ini? Cek aja versi [Demonya](https://store.steampowered.com/app/1232570/Paper_Beast/)
