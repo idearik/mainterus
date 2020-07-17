@@ -11,4 +11,4 @@ Takut rugi beli ? tonton dulu nih trailernya.
 
 {{< youtube 8u82ZrBpkdQ >}}
 
-Sekual Steel Sky yang tokoh utamanya itu Robert Froster, ngasi kamu misi buat mecahin teka-teki dan membawa pulang anak yang telah diculik. Khas sama AI-nya, mungkin aja dengan mainin ini bisa ngasi kamu sensasi seru kali yeaah (?)
+Sekuel Steel Sky yang tokoh utamanya itu Robert Froster, ngasi kamu misi buat mecahin teka-teki dan membawa pulang anak yang telah diculik. Khas sama AI-nya, mungkin aja dengan mainin ini bisa ngasi kamu sensasi seru kali yeaah (?)
