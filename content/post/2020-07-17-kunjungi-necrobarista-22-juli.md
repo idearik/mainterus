@@ -5,10 +5,12 @@ description: Necrobarista Rilis Tanggal 22 Juli 2020
 tags:
   - news
 ---
-Kafe memang identik dengan tempat untuk singgah, termasuk bagi para roh dari orang mati. Gim novel visual yang dibuat sama [ROUTE 59](http://www.route59games.com/) ini, ngajak kamu buat ngerasain jadi barista di kafe itu. Simak aja trailernya.
+Kafe memang identik dengan tempat untuk singgah, termasuk bagi para roh dari orang mati. Gim novel visual yang dibuat sama [ROUTE 59](http://www.route59games.com/) ini, bakal ngajak kamu buat ngerasain jadi barista di kafe itu. 
+
+Uhhh gimana tuh kira-kira rasanya ? Simak dulu trailernya kuy
 
 {{< youtube T07e9MmfJ3c >}}
 
-**[Necrobarista](<https://www.necrobarista.com/>)**
+**[Necrobarista](https://www.necrobarista.com/)**
 
-Gaperlu lama-lama nunggu soalnya tanggal 22 Juli nanti, gim gaya anime ini akan dirilis. [Steam](<https://store.steampowered.com/app/725270/Necrobarista/>) atau pun [Gog](https://www.gog.com/game/necrobarista), bisa jadi pilihan kamu buat dapetin gim yang berlatar fantasi Melbourne dan kopi terminal ini.
+Gaperlu lama-lama nunggu soalnya tanggal 22 Juli nanti, gim gaya anime ini akan dirilis. [Steam](https://store.steampowered.com/app/725270/Necrobarista/) atau pun [Gog](https://www.gog.com/game/necrobarista), bisa jadi pilihan kamu buat dapetin gim yang berlatar fantasi Melbourne dan kopi terminal ini.
