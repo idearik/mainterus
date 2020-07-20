@@ -13,6 +13,6 @@ Penasaran ?
 
 Ini dia video launching Fae Tactics.
 
- {{< youtube yXwddGkl2i4 >}}
+ {{< youtube i2OcmU-KV-I >}}
 
-Untuk pemesanannya, kamu bisa langsung ke [Humble Store](<https://www.humblebundle.com/store/fae-tactics>) , atau [Steam](<https://store.steampowered.com/app/995980/Fae_Tactics/>) yaa...
+Untuk pemesanannya, kamu bisa langsung ke [Humble Store](https://www.humblebundle.com/store/fae-tactics) , atau [Steam](https://store.steampowered.com/app/995980/Fae_Tactics/) yaa...
